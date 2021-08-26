@@ -149,6 +149,7 @@ Códigos Http de Retorno Possíveis:
 Basta seguir este tutorial da AWS: https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/http-api-dynamo-db.html utilizando a função lambda deste projeto;
 
 Prestando atenção ao nome da tabela no DynamoDB que deve ser **acct-leads** e o id deve se chamar **uuid** do tipo String;
+
 Prestar atenção também na configuração das Rotas na AWS e realizar conforme esse README.md;
 
 ## 🦸 Autor
