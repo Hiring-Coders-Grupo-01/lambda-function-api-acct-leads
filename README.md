@@ -146,7 +146,7 @@ Códigos Http de Retorno Possíveis:
 
 ## 🛠 Como utilizar?
 
-Basta seguir este tutorial da AWS: https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/http-api-dynamo-db.html
+Basta seguir este tutorial da AWS: https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/http-api-dynamo-db.html utilizando a função lambda deste projeto
 
 Prestando atenção ao nome da tabela no DynamoDB que deve ser **acct-leads** como também aos endpoints citados.
 
